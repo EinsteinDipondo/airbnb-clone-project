@@ -194,9 +194,4 @@ erDiagram
 
 ---
 
-If you'd like, I can:
-- Generate SQL DDL (Postgres / MySQL) from this ERD.
-- Produce a Draw.io XML export or PNG-ready layout.
-- Add indexing and example migration scripts.
 
-Which would you prefer next?
